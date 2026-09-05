@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TvmApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TvmApplication.class, args);
+	public static void main(String[] argss) {
+		SpringApplication.run(TvmApplication.class, argss);
 	}
 
 }
